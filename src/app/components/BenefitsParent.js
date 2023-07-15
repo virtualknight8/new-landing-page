@@ -21,7 +21,7 @@ export default function BenefitsParent(){
     ]
 
     return(
-        <div className="flex-col px-3 py-7">
+        <div className="flex-col px-3 py-7 lg:mx-28">
             <Benefit imgpath={benefitsData[0].imgpath}
                      heading={benefitsData[0].heading}
                      description={benefitsData[0].description} />

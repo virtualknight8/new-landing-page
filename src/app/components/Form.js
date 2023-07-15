@@ -2,7 +2,7 @@ export default function Form(){
     return(
             
             
-        <div className="m-auto -mt-14 flex-col justify-center items-center px-5 py-5 bg-teal-900 text-white w-96">
+        <div className="m-auto lg:float-right lg:clear-left lg:mx-8 -mt-14 flex-col justify-center items-center px-5 py-5 bg-teal-900 text-white w-96">
             <p className="text-2xl font-bold text-center mt-5 mb-5">
                 Schedule an<br></br>
                 Appointment</p>

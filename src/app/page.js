@@ -4,6 +4,8 @@ import BenefitsParent from "./components/BenefitsParent"
 import VideoComp from "./components/VideoComp"
 import Reviews from "./components/ReviewsParent"
 import FeatureParent from "./components/FeatureParent"
+import About from "./components/About"
+import Footer from "./components/Footer"
 
 export default function Home() {
   return (
@@ -14,6 +16,8 @@ export default function Home() {
         <VideoComp />
         <Reviews />
         <FeatureParent />
+        <About />
+        <Footer />
 
     </main>
   )

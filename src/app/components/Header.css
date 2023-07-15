@@ -1,5 +1,6 @@
 .header{
-    background-image: url("./bgimg.jpg"); 
-    height: 70vh;
+    background-image: url("/headerimg.jpg"); 
+    height: 100vh;
+    background-size: cover;
 }
 
