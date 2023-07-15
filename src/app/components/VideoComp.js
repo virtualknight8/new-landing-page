@@ -9,9 +9,9 @@ export default function VideoComp(){
                 or just hype &apos;em up.
             </p>
         </div>
-        <video className="w-4/5 h-auto m-auto -mt-12" controls>
+        <div><video className="w-4/5 h-auto m-auto -mt-12" controls>
             <source src="/pexels_videos_2675511 (1080p).mp4" type="video/mp4"></source>
-            </video></div>
+            </video></div></div>
 
     )
 }
