@@ -23,13 +23,15 @@ Note: You have to have node installed first.
 
 ## Snapshots
 
-1. Desktop View 
+1. Desktop View:
                 ![header-desktop-view](image.png)
                 ![Feature-footer-desktop view](image-1.png)
-2. Mobile View
+2. Mobile View:
                 ![header-mobile-view](image-2.png)
                 ![video-comp-mobile-view](image-3.png)                
+3. Video Demo:
 
+                <video src="Welcome%20-%20new-landing-page%20-%20Visual%20Studio%20Code%202023-07-16%2015-38-43.mp4" controls title="Launch Demo"></video>
 For more information on how to customize and extend Next.js and Tailwind CSS, refer to their respective documentation:
 
 - Next.js: [https://nextjs.org/docs](https://nextjs.org/docs)
