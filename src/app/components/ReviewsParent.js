@@ -12,7 +12,7 @@ export default function Reviews(){
         {
             starPath: 'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/6d441dac-multor-testimonial2-stars.svg',
             reviewContent:'Include someone talking about how easy it was to sign up and participate.',
-            picturePath:'/bgirl.jpg'
+            picturePath:'/bgirl2.jpg'
         }
     ]
 

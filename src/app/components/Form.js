@@ -15,9 +15,9 @@ export default function Form(){
                 <input className="w-full px-3 py-3 rounded-md mt-2 mb-2"type="email" required placeholder="Email"></input>
                 <input className="w-full px-3 py-3 rounded-md mt-2 mb-2"type="number" required placeholder="Phone Number"></input>
                 <select name="Appointment" id="Appointment" className="w-full text-black px-3 py-3 rounded-md mt-2 mb-2" >
-                <option className="" value="1">Type of Appointment</option>
-                <option className="" value="2">Type 1</option>
-                <option className="" value="3">Type 2</option>
+                <option className="!max-w-min" value="1">Type of Appointment</option>
+                <option className="!max-w-min" value="2">Type 1</option>
+                <option className="!max-w-min" value="3">Type 2</option>
                 </select>
                 <button className="block bg-cyan-500 w-full px-3 py-3 rounded-md mt-2">Submit</button>
              </form>

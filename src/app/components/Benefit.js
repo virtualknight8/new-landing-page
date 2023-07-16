@@ -9,7 +9,7 @@ export default function Benefit(props){
                 
                 <p className="text-2xl font-bold">{props.heading}</p>
                 
-                <p className='text-lg mt-2'>{props.description}</p>
+                <p className='text-lg mt-2 font-light'>{props.description}</p>
                     </div>
                 </div>
 
