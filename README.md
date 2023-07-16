@@ -23,12 +23,12 @@ Note: You have to have node installed first.
 
 ## Snapshots:
    ![header-desktop-view](image.png)
-                ![Feature-footer-desktop view](image-1.png)
-                ![header-mobile-view](image-2.png)
-                ![video-comp-mobile-view](image-3.png)       
+   ![Feature-footer-desktop view](image-1.png)
+   ![header-mobile-view](image-2.png)
+   ![video-comp-mobile-view](image-3.png)       
 
 3. Video Demo:
-                <video src="./public/Welcome - new-landing-page - Visual Studio Code 2023-07-16 15-38-43.mp4" controls title="Launch Demo"></video>
+                <video src=".\public\Demo.mp4" controls title="Launch Demo"></video>
 
 For more information on how to customize and extend Next.js and Tailwind CSS, refer to their respective documentation:
 
