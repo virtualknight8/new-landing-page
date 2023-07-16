@@ -3,7 +3,6 @@
 This repository contains a landing page built using Next.js and Tailwind CSS. The landing page is designed to provide a responsive and visually appealing interface.
 
 ## Features
-
 - Responsive design for various screen sizes and devices.
 - Utilizes Next.js for server-side rendering and efficient client-side navigation.
 - Integrated with Tailwind CSS for easy and rapid styling customization.
@@ -28,7 +27,7 @@ Note: You have to have node installed first.
    ![video-comp-mobile-view](image-3.png)       
 
 3. Video Demo:
-                <video src=".\public\Demo.mp4" controls title="Launch Demo"></video>
+               [ <video src=".\public\Demo.mp4" controls title="Launch Demo"></video>](https://github.com/virtualknight8/new-landing-page/assets/96226262/4b23e141-21d2-4e50-8432-42841037e374)
 
 For more information on how to customize and extend Next.js and Tailwind CSS, refer to their respective documentation:
 
