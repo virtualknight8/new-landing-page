@@ -9,6 +9,9 @@ This repository contains a landing page built using Next.js and Tailwind CSS. Th
 - Includes optimized build configurations for production deployment.
 - Supports modern JavaScript features and best practices.
 
+## Live Link
+ - https://new-landing-page-flax.vercel.app/
+
 ## Installation
 Note: You have to have node installed first.
 1. Clone the repository: `git clone https://github.com/virtualknight8/new-landing-page`
