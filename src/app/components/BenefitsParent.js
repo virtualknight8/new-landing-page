@@ -5,18 +5,18 @@ export default function BenefitsParent(){
     const benefitsData = [
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/8ab92ea8-multor-benefit2-icon.svg',
-            heading : 'Benefit 1',
-            description: "Highlight the benefits of signing up for an appointment, online class, or video consultation."
+            heading : 'Time-Saving Convenience',
+            description: "Say goodbye to long wait times and phone calls – book appointments effortlessly online, anytime, and from anywhere."
         },
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/13b0f11a-multor-benefit1-icon.svg',
-            heading: 'Benefit 2',
-            description: "For example, fitness instructions might describe how their routines make people healthier *and* happier."
+            heading: 'Personalized Experience',
+            description: "Customize your appointments to suit your needs, with options for preferred dates, times, and service providers."
         },
         {
             imgpath:'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/c32dd90d-multor-benefit3-icon.svg',
-            heading: 'Benefit 3',
-            description: "Remind visitors how easy it is to claim your offer and start enjoying the benefits."
+            heading: 'Stress-Free Organization',
+            description: " Keep track of all your appointments in one place, receiving timely reminders for a worry-free experience."
         }
     ]
 

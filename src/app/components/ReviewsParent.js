@@ -6,13 +6,17 @@ export default function Reviews(){
     const reviewData = [
         {
             starPath: 'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/dfb61e74-multor-testimonial1-stars.svg',
-            reviewContent:"Share a real testimonial that hits some of your benefits but isn't too sales-y.",
-            picturePath: '/bguy.jpg'
+            reviewContent:"I've saved so much time using their appointment services. Booking online is a breeze!",
+            picturePath: '/bguy.jpg',
+            usr:'Richard',
+            location:'New Jersey'
         },
         {
             starPath: 'https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/multor/6d441dac-multor-testimonial2-stars.svg',
-            reviewContent:'Include someone talking about how easy it was to sign up and participate.',
-            picturePath:'/bgirl2.jpg'
+            reviewContent:'From sign-up to participation, it was a smooth journey. Their user-friendly platform made it effortless!',
+            picturePath:'/bgirl2.jpg',
+            usr:'Nicole',
+            location:'Denver'
         }
     ]
 
@@ -22,10 +26,14 @@ export default function Reviews(){
             <div className="flex flex-col lg:flex-row lg:flex-wrap lg:justify-between lg:w-full">
         <Review starPath={reviewData[0].starPath}
                 reviewContent={reviewData[0].reviewContent}
-                picturePath = {reviewData[0].picturePath} />
+                picturePath = {reviewData[0].picturePath} 
+                userName = {reviewData[0].usr}
+                location = {reviewData[1].location}/>
         <Review starPath={reviewData[1].starPath}
                 reviewContent={reviewData[1].reviewContent}
-                picturePath = {reviewData[1].picturePath} />
+                picturePath = {reviewData[1].picturePath}
+                userName = {reviewData[1].usr}
+                location = {reviewData[1].location} />
 
             </div>
             </div>

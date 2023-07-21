@@ -10,8 +10,8 @@ export default function Review(props){
             <div>
                 <Image className="inline-block -mt-5" src={props.picturePath} height={70} width={70} alt={'profile picture'}></Image>
              <div className="inline-block ml-5">
-                <p className="font-bold">Real Name</p>
-             <p>Location</p>
+                <p className="font-bold">{props.userName}</p>
+             <p>{props.location}</p>
              </div>
 
              </div>

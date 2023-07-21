@@ -5,20 +5,20 @@ export default function FeatureParent(){
     const featureData = [
         {
             imgPath:'/group.jpg',
-            heading:'FEATURE 1',
-            description:'Talk about some of the details of your offer with a focus on the value people get back.'
+            heading:'Personalized Service Packages',
+            description:'Experience the ultimate value with our personalized service packages, offering tailored solutions to meet your individual needs.'
 
         },
         {
             imgPath:'/tablet.jpg',
-            heading:'FEATURE 2',
-            description:'Is there a pain point that your service resolves? Tell visitors about it here.'
+            heading:'Seamless Online Booking',
+            description:'Enjoy hassle-free scheduling with our user-friendly online booking platform. With just a few clicks.'
 
         },
         {
             imgPath:'/pot.jpg',
-            heading:'FEATURE 3',
-            description:'Alternatively, you could use this section to address some frequently asked questions.'
+            heading:'Timely Appointment Reminders',
+            description:'Never miss an important appointment again! Benefit from our timely appointment reminders that keep you informed and prepared.'
 
         }
     ]
